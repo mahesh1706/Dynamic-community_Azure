@@ -27,5 +27,4 @@ Make changes in your source code and commit it >> then go to the actions of the 
 Github Actions
 
 
-➜ Output : (With Custom Domain)
 ![Screenshot (10)](https://user-images.githubusercontent.com/85986691/184533348-dd2ef287-23e7-480c-b4b3-0f9ebee0ecec.png)
