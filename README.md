@@ -1,4 +1,5 @@
 # Dynamic-community_Azure 
+Follow The Steps 
 Project Demo URL: https://dynamiccommunity.tech/
 Step 1: Create a new Repository on GitHub and upload your Website Source code to it!![Screenshot (123)](https://user-images.githubusercontent.com/85986691/184533132-6e2cc5e1-20cf-494e-a947-3a5fb658ae94.png)
 Step 3: Creating a static website in Azure
